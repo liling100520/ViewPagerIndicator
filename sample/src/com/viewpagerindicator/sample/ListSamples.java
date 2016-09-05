@@ -18,6 +18,8 @@ import android.widget.SimpleAdapter;
 
 public class ListSamples extends ListActivity {
 
+
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
